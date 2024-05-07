@@ -1,8 +1,8 @@
 Struktur Organisasi Studio Desain Grafis:
 
-- Direktur Utama (Nama Manajer atau Pendiri)
-  - Manajer Kreatif (Nama Kreatif)
-  - Manajer Pemasaran (Nama Pemasaran)
+- Direktur Utama (Sahririn)
+  - Manajer Kreatif (Baco)
+  - Manajer Pemasaran (Becce)
   - Tim Desain Grafis
     - Desainer Senior
     - Desainer Junior
